@@ -1,0 +1,8 @@
+Color Highlight
+Dracula Official
+EditorConfig
+EsLint
+Material Icon
+Node Exec 
+Prettier 
+Rockeatseat React, Native
