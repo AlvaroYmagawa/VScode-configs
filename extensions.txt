@@ -4,5 +4,6 @@ EditorConfig
 EsLint
 Material Icon
 Node Exec 
+Styled Components
 Prettier 
 Rockeatseat React, Native
